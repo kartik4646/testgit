@@ -1,7 +1,10 @@
 <html>
 
-<p>I am the the God </p>
+<p>I am the GOD </p>
 <h1> You can be too </h1>
+
 <h3> wanna join me...yesh </h3>
+<h3> wanna join me? </h3>
+
 
 </html>
