@@ -7,6 +7,7 @@
 <h3> wanna join me? </h3>
 <p1>hello friends. nice to see you
 <h2> hi i am taranjot and i want to join you </h2>
+<h3> hi i am kartik and i too want to join you </h3>
 
 
 </html>
